@@ -1,7 +1,7 @@
 var sidebarData = {
     header : {
         logo : 'images/logo.svg',
-        title: '蜜蜂工具'
+        title: 'Bee Tools'
     },
     section: {
         'Hash' : {
